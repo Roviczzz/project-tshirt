@@ -1,0 +1,117 @@
+.navbar-expand-lg{
+    opacity: 100%;
+    
+}
+
+.rounded-circle{
+    margin-top: 4px;
+    margin-left: 10px;
+    margin-bottom: 4px;
+}
+
+.icon-right{
+    display: inline;
+    margin-top: 4px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-bottom: 4px;
+}
+
+.icon-left{
+    display: inline;
+    margin-top: 4px;
+    margin-right: 10px;
+    margin-left: 8px;
+    margin-bottom: 4px;
+}
+
+
+.pg-bg{
+    background-image: url("/images/backgroundpage.png");
+    background-size: cover;
+
+}
+
+@font-face{
+    font-family: League Spartan;
+    src:url(/fonts/LeagueSpartan-Bold.otf)
+
+}
+
+.spartan-font{
+    font-family: "League Spartan";
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@font-face{
+    font-family: Poppins;
+    src:url(/fonts/Poppins-Medium.ttf)
+
+}
+
+.poppins-font{
+    font-family: "Poppins";
+}
+
+@font-face{
+    font-family: Inter;
+    src:url(/fonts/inter/Inter-Regular.woff)
+
+}
+
+.inter-font{
+    font-family: "Inter";
+}
+
+.div-margin{
+    margin: 80px 0px;
+
+}
+
+.orange-accent{
+    color: #DC8736;
+
+}
+
+.white-accent{
+    color: #ffff;
+
+}
+
+.heading1{
+    font-family: League Spartan;
+    letter-spacing: 8px;
+    font-size: 100px;
+
+}
+
+.heading2{
+    font-size: 40px;
+    letter-spacing: 8px;
+}
+
+.tagline{
+    font-size: 20px;
+    letter-spacing: 8px;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #d9b100;
+    border-color: #c0ad00;
+
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ca870b;
+    border-color: #c0ad00;
+}
